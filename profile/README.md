@@ -8,7 +8,7 @@
 [구미 머더러 AI repository](https://github.com/gummy-murderer/AI)
 
 ## Unity Repository
-[구미 머더러 Unreal repository](https://github.com/gummy-murderer/gummy-unity)
+[구미 머더러 Unity repository](https://github.com/gummy-murderer/gummy-unity)
 
 <br>
 
