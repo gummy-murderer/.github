@@ -60,12 +60,12 @@
 ### Server
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/taegeun-park0525"><img src="https://avatars.githubusercontent.com/taegeun-park0525" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/taegeun-park"><img src="https://avatars.githubusercontent.com/taegeun-park0525" width="150px;" alt="">
     <td align="center"><a href="https://github.com/kny3037"><img src="https://avatars.githubusercontent.com/kny3037" width="150px;" alt="">
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/taegeun-park0525"><b>박태근</b></td>
+    <td align="center"><a href="https://github.com/taegeun-park"><b>박태근</b></td>
     <td align="center"><a href="https://github.com/kny3037"><b>김나영</b></td>
   </tr>
  <tr>
