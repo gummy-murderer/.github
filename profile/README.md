@@ -60,7 +60,7 @@
 ### Server
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/taegeun-park"><img src="https://avatars.githubusercontent.com/taegeun-par" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/taegeun-park"><img src="https://avatars.githubusercontent.com/taegeun-park" width="150px;" alt="">
     <td align="center"><a href="https://github.com/kny3037"><img src="https://avatars.githubusercontent.com/kny3037" width="150px;" alt="">
     </td>
   </tr>
