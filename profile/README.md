@@ -16,13 +16,13 @@
 과연 탐정은 범인을 찾아 마을 주민을 지켜낼 수 있을까요?
 
 ## 👤 팀원 소개
-| 프로필 | 이름  | 소속  | 역할      | GitHub |
-|--------|-------|---------|--------|--------|
+| 프로필 |    이름  | 소속  | 역할      | GitHub |
+|--------|-----------|---------|--------|--------|
 | <img src="https://avatars.githubusercontent.com/cykim1228" width="150px;" alt=""> | 김찬영 | AI |  | [GitHub](https://github.com/cykim1228) |
 | <img src="https://avatars.githubusercontent.com/MinkyoDev" width="150px;" alt=""> | 정민교 | AI | | [GitHub](https://github.com/MinkyoDev) |
 | <img src="https://avatars.githubusercontent.com/juyeon0514" width="150px;" alt=""> | 강주연 | UNITY | 로그인, NPC 상호작용, 심문, 시나리오 생성/수정/삭제, 로비UI, 채팅(멀티), 탐정 | [GitHub](https://github.com/example) |
 | <img src="https://avatars.githubusercontent.com/jimandy00" width="150px;" alt=""> | 변지환 | UNITY | 시네머신, 캐릭터 커스텀, NPC, 시체조사, 미니맵, 엔딩, 무기 찾기(멀티), 인벤토리(멀티), 조수(멀티) | [GitHub](https://github.com/example) |
-| <img src="https://avatars.githubusercontent.com/kny3037" width="150px;" alt=""> | 김나영 | SERVER | | [GitHub](https://github.com/example) |
+| <img src="https://avatars.githubusercontent.com/kny3037" width="150px;" alt=""> | 김나영&nbsp;&nbsp;&nbsp;&nbsp; | SERVER | | [GitHub](https://github.com/example) |
 
 <!--### AI
 <table>
