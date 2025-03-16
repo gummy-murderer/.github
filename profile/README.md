@@ -109,5 +109,5 @@ BearMurderer/
 - Notion :
 - Site :
 
-  ## ☎️ 버그 신고 및 문의
-  - email : 
+## ☎️ 버그 신고 및 문의
+- email : 
